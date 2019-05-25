@@ -1,0 +1,3 @@
+creat a gethub account
+creat a repository
+creat a file
