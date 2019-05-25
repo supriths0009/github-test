@@ -1,3 +1,4 @@
-creat a gethub account
-creat a repository
-creat a file
+create a gethub account
+create a repository
+create a file
+adding more file to check commit
